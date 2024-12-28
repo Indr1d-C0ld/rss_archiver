@@ -1,3 +1,4 @@
-https://www.analisidifesa.it/rss/
-https://clarissa.it/wp/rss/
-https://www.maurizioblondet.it/rss/
+# Inserire qui un sito feed RSS per riga:
+# https://www.site_1.it/rss/
+# https://site_2.it/wp/rss/
+
